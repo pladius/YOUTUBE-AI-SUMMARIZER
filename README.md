@@ -40,7 +40,8 @@ AI-Generated Response
 ## Installation
 
 ```bash
-git clone https://github.com/pladius/Youtube-Video-Loader-Summarizer
+git clone https://github.com/pladius/YOUTUBE-AI-SUMMARIZER
+
 .git
 cd YOUR-REPOSITORY
 pip install -r requirements.txt
